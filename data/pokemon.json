@@ -4,7 +4,7 @@
     "name": "Tototo",
     "rarity": "comun",
     "months_only": [],
-    "image": "",
+    "image": "https://raw.githubusercontent.com/notpikachuarmy/hazte-con-todos/main/img/a%20Tototo.png",
     "notes": "Serie tototo"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Tototo abeja",
     "rarity": "comun",
     "months_only": [4,5,6,7,8],
-    "image": "",
+    "image": "https://raw.githubusercontent.com/notpikachuarmy/hazte-con-todos/main/img/Tototo%20abeja.png",
     "notes": "Serie tototo"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Tototo albino",
     "rarity": "raro",
     "months_only": [],
-    "image": "",
+    "image": "https://raw.githubusercontent.com/notpikachuarmy/hazte-con-todos/main/img/Tototo%20albino.png",
     "notes": "Serie tototo"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Tototo alegria",
     "rarity": "epico",
     "months_only": [],
-    "image": "",
+    "image": "https://raw.githubusercontent.com/notpikachuarmy/hazte-con-todos/main/img/Tototo%20alegria.png",
     "notes": "Serie tototo"
   }
 ]
